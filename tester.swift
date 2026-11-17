@@ -9,3 +9,5 @@ import Foundation
 
 print("hello world")
 print("isus")
+print("puifai")
+print("Mai")
